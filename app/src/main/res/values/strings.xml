@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="Login">Login</string>
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up_instead">Sign Up Instead</string>
+    <string name="what_s_my_password">What\'s My Password?</string>
+    <string name="autofilluser">AUTOFILL_HINT_USERNAME</string>
+    <string name="autofillpass">AUTOFILL_HINT_PASSWORD</string>
+</resources>
